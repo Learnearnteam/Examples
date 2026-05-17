@@ -213,7 +213,7 @@
 .cboximg{
 	width:68px;
 	height:57px;
-	background-image:url(../images/vector.jpg);
+	background-image:url(./vector.jpg);
 	background-repeat:no-repeat;
 	border-radius:15px;
 	margin-left:230px;
@@ -299,7 +299,7 @@ h4{
 	height:45px;
 	float:right;
 	display:inline;
-	background-image:url(../images/vector2.png);
+	background-image:url(./vector2.png);
 }
 .vec2.one{
 	background-position:0 0;
